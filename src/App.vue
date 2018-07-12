@@ -24,9 +24,14 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
+  text-align: center;
 }
 
 .main {
+  float: left;
   height: 100%;
+  width: 95%;
+  background-color: #eff2f7;
+  overflow: auto;
 }
 </style>

@@ -6,24 +6,24 @@
                 <div>收银</div>
             </li>
             <li>
-                <i class="iconfont">&#xe601;</i>
-                <div>收银</div>
+                <i class="iconfont">&#xe602;</i>
+                <div>店铺</div>
             </li>
             <li>
                 <i class="iconfont">&#xe601;</i>
-                <div>收银</div>
+                <div>商品</div>
+            </li>
+            <li>
+                <i class="iconfont">&#xe603;</i>
+                <div>会员</div>
             </li>
             <li>
                 <i class="iconfont">&#xe601;</i>
-                <div>收银</div>
+                <div>统计</div>
             </li>
             <li>
-                <i class="iconfont">&#xe601;</i>
-                <div>收银</div>
-            </li>
-            <li>
-                <i class="iconfont">&#xe601;</i>
-                <div>收银</div>
+                <i class="iconfont">&#xe604;</i>
+                <div>设置</div>
             </li>
         </ul>
 
