@@ -14,7 +14,7 @@
                                     <el-button type="text" size="small">增加</el-button>
                                 </template>
                             </el-table-column> -->
-
+              <!-- 我靠push了，格子不綠 -->
               <el-table-column fixed="right" label="操作" width="100">
                 <template slot-scope="scope">
                   <el-button type="text" size="small" @click="deleteGood(scope.row)">删除</el-button>
